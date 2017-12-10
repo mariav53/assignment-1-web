@@ -23,13 +23,13 @@ un botón para enviar el formulario
 ![imagen formulario](/img/form.png)
 
 La web realizada tiene que ser responsive, es decir, funcionar correctamente para los siguientes tamaños de pantalla:
-*por debajo de 900px*
+**por debajo de 900px**
 - El texto "Creando Diversidad Digital" se ve más pequeño
 - El pie de página y la imagen central son más pequeñas (puede hacerse con mediaqueries o con otras herramientas)
 
 ![imagen tablet](/img/tablet.png)
 
-*por debajo de 500px*
+**por debajo de 500px**
 - El menú de la cabecera se coloca bajo el logo
 - El texto "Creando Diversidad Digital" se ve aún más pequeño
 - El pie de página y la imagen central son aún más pequeñas (puede hacerse con mediaqueries o con otras herramientas)
