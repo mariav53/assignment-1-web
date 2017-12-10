@@ -7,7 +7,7 @@ En este ejercicio vamos a maquetar una versión simplificada de la Home de la p�
 
 ![imagen home](/img/desktop.png)
 
-La web siplificada que hemos preparado, consta de estos elementos:
+La web simplificada que hemos preparado, consta de estos elementos:
 - Una cabecera fija, que te acompaña al hacer scroll y que contiene
 el logo de Adalab con un enlace a la home situado a la izquierda
 alineado a la derecha, un menú de opciones en línea, que al pasar el ratón sobre ellas cambian de color y aparece una línea debajo
